@@ -1,2 +1,0 @@
-# starknet-sandbox
-StarkNet Sandbox

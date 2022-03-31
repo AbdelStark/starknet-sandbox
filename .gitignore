@@ -2,3 +2,7 @@ env
 *accounts.json
 node.json
 artifacts
+
+node_modules
+stark-artifacts
+cache
