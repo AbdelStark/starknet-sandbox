@@ -1,4 +1,5 @@
 env
+venv
 *accounts.json
 node.json
 artifacts
