@@ -6,7 +6,7 @@
 
 # Prepare declare args
 COMPILER_VERSION="2.1.0"
-CONTRACT_CLASS_FILE="./target/dev/unruggable_UnruggableMemecoin.contract_class.json"
+CONTRACT_CLASS_FILE="./target/dev/sandbox_Inscribor.contract_class.json"
 DECLARE_ARGS="--compiler-version=$COMPILER_VERSION"
 
 # Declare the contract and capture the command output
