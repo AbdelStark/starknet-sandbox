@@ -1,0 +1,3 @@
+mod inscriptions {
+    mod inscribor;
+}

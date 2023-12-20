@@ -1,9 +1,5 @@
 env
 venv
-*accounts.json
-node.json
-artifacts
-
-node_modules
-stark-artifacts
 cache
+target
+.snfoundry_cache/
